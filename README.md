@@ -1,9 +1,5 @@
 ## bKash Payment Gateway Integration with Laravel 7
 
-## Clone this repo
-```
-https://github.com/samironbarai/laravel-bkash.git
-```
 
 ## Install composer packages
 ```
@@ -34,11 +30,3 @@ put credentials
 
 ```
 
-## Facing any problem? Contact with me
-
-Click on the image bellow to see YouTube video.
-
-[![Laravel 7 bKash Payment Gateway](https://img.youtube.com/vi/dWUV5t38slU/0.jpg)](https://www.youtube.com/watch?v=dWUV5t38slU) 
-
-Please visit my website.
-[samironbarai.com](https://samironbarai.com) 
